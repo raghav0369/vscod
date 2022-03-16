@@ -1,0 +1,6 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; color:#000000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<font face="arial">{!LMS_Employee__c.Name}</font><br><div style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="arial">Happy birthday many more returns of the day</font></div><div style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="arial"><img src="https://c2nitservice-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0155j000000tHvI&amp;oid=00D5j000003ey71" border="0" align="left" alt=""><br></font></div><div style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="arial">{!LMS_Employee__c.Gopi}</font></div>]]></td>
+</tr>
+</table>

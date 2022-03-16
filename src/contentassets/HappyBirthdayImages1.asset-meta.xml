@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isVisibleByExternalUsers>true</isVisibleByExternalUsers>
+    <language>en_US</language>
+    <masterLabel>HappyBirthdayImages1</masterLabel>
+    <relationships>
+        <emailTemplate>
+            <access>VIEWER</access>
+            <name>unfiled$public/C2n_Birthday_1640077319498</name>
+        </emailTemplate>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>Happy-Birthday-Images-1.jpg</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>

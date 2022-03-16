@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Employee</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Employees</value>
+    </caseValues>
+    <fields>
+        <label><!-- Aadhaar No --></label>
+        <name>Aadhaar_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Accomplishments --></label>
+        <name>Accomplishments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Awards --></label>
+        <name>Awards__c</name>
+    </fields>
+    <fields>
+        <label><!-- CTC --></label>
+        <name>CTC__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date Of Joining --></label>
+        <name>Date_Of_Joining__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Birth --></label>
+        <name>Date_of_Birth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Releasing --></label>
+        <name>Date_of_Releasing__c</name>
+    </fields>
+    <fields>
+        <label><!-- Department --></label>
+        <name>Department__c</name>
+        <picklistValues>
+            <masterLabel>&quot;HR</masterLabel>
+            <translation><!-- &quot;HR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Administration&quot;</masterLabel>
+            <translation><!-- Administration&quot; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>App Development</masterLabel>
+            <translation><!-- App Development --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Designation --></label>
+        <name>Designation__c</name>
+        <picklistValues>
+            <masterLabel>&quot;Software Engineer</masterLabel>
+            <translation><!-- &quot;Software Engineer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Director</masterLabel>
+            <translation><!-- Director --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HR-Associate</masterLabel>
+            <translation><!-- HR-Associate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HR-Manager&quot;</masterLabel>
+            <translation><!-- HR-Manager&quot; --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Manager</masterLabel>
+            <translation><!-- Manager --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tech Lead</masterLabel>
+            <translation><!-- Tech Lead --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employee Code --></label>
+        <name>Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- Employment Type --></label>
+        <name>Employment_Type__c</name>
+        <picklistValues>
+            <masterLabel>Contract to Hire (C2H)</masterLabel>
+            <translation><!-- Contract to Hire (C2H) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Contractor</masterLabel>
+            <translation><!-- Contractor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FTE</masterLabel>
+            <translation><!-- FTE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FTH</masterLabel>
+            <translation><!-- FTH --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MANAGER --></label>
+        <name>MANAGER__c</name>
+        <relationshipLabel><!-- Employees --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- No of Absents --></label>
+        <name>No_of_Absents__c</name>
+    </fields>
+    <fields>
+        <label><!-- PAN No --></label>
+        <name>PAN_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- PF Account Number --></label>
+        <name>PF_Account_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Previous Experience --></label>
+        <name>Previous_Experience__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project --></label>
+        <name>Project__c</name>
+        <picklistValues>
+            <masterLabel>LMS</masterLabel>
+            <translation><!-- LMS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>USER STORY</masterLabel>
+            <translation><!-- USER STORY --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Check this field to enable an automated birthday email to be sent to this contact, using the &quot;Birthday Email&quot; email template --></help>
+        <label><!-- Send Birthday Email --></label>
+        <name>Send_Birthday_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Skill Set --></label>
+        <name>Skill_Set__c</name>
+        <picklistValues>
+            <masterLabel>DevOps</masterLabel>
+            <translation><!-- DevOps --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Java</masterLabel>
+            <translation><!-- Java --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JavaScript</masterLabel>
+            <translation><!-- JavaScript --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Salesforce</masterLabel>
+            <translation><!-- Salesforce --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- UAN Number --></label>
+        <name>UAN_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Work Location --></label>
+        <name>Work_Location__c</name>
+        <picklistValues>
+            <masterLabel>&quot;Hyderabad</masterLabel>
+            <translation><!-- &quot;Hyderabad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Banglore</masterLabel>
+            <translation><!-- Banglore --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chennai</masterLabel>
+            <translation><!-- Chennai --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delhi&quot;</masterLabel>
+            <translation><!-- Delhi&quot; --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Work Type --></label>
+        <name>Work_Type__c</name>
+        <picklistValues>
+            <masterLabel>&quot;On-Site</masterLabel>
+            <translation><!-- &quot;On-Site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Client&quot;</masterLabel>
+            <translation><!-- Client&quot; --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>LMS Employee Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Employee Information --></label>
+            <section>Employee Information</section>
+        </sections>
+        <sections>
+            <label><!-- Personal Information --></label>
+            <section>Personal Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please enter Valid Aadhar Card number	Field --></errorMessage>
+        <name>ADHAR_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter Valid PAN Card number --></errorMessage>
+        <name>PAN_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please enter Valid PF number --></errorMessage>
+        <name>PFValidation</name>
+    </validationRules>
+</CustomObjectTranslation>

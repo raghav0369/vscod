@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Leave</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Leaves</value>
+    </caseValues>
+    <fields>
+        <label><!-- LMS Employee --></label>
+        <name>LMS_Employee__c</name>
+        <relationshipLabel><!-- Leaves --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- From Date --></label>
+        <name>LMS_From_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- To Date --></label>
+        <name>LMS_To_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- No of Days --></label>
+        <name>No_of_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reason --></label>
+        <name>Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type of Leaves --></label>
+        <name>Type_of_Leaves__c</name>
+        <picklistValues>
+            <masterLabel>Casual Leave</masterLabel>
+            <translation><!-- Casual Leave --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loss of Pay</masterLabel>
+            <translation><!-- Loss of Pay --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sick Leave</masterLabel>
+            <translation><!-- Sick Leave --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>LMS Leave Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

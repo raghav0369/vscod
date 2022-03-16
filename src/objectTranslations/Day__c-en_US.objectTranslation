@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Day</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Days</value>
+    </caseValues>
+    <fields>
+        <label><!-- Time Sheet --></label>
+        <name>EM_TimeSheet__c</name>
+        <relationshipLabel><!-- Days --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Week Day --></label>
+        <name>EM_weekDay__c</name>
+        <picklistValues>
+            <masterLabel>FRI</masterLabel>
+            <translation><!-- FRI --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MON</masterLabel>
+            <translation><!-- MON --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAT</masterLabel>
+            <translation><!-- SAT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SUN</masterLabel>
+            <translation><!-- SUN --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>THU</masterLabel>
+            <translation><!-- THU --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TUE</masterLabel>
+            <translation><!-- TUE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WED</masterLabel>
+            <translation><!-- WED --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- No of Hours --></label>
+        <name>No_of_Hours__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Leave Balance</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Leave Balances</value>
+    </caseValues>
+    <fields>
+        <label><!-- Casual Leave --></label>
+        <name>Casual_Leave__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sick Leave --></label>
+        <name>Sick_Leave__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

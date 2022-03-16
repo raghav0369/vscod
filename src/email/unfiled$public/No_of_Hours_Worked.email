@@ -1,0 +1,4 @@
+Dear {!EM_TimeSheet__c.Employee__c}
+Your Time Sheet {!EM_TimeSheet__c.EM_Total_Hours_worked__c}
+ has reported less Working than Anticipated 
+Thank you HR Team

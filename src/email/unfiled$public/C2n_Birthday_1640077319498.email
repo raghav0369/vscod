@@ -1,0 +1,5 @@
+<html><head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">{{{LMS_Employee__c.Date_of_Birth__c}}}Happy birthday 🎂 to Raghav{{{LMS_Employee__c.Date_of_Birth__c}}}
+</body></html>

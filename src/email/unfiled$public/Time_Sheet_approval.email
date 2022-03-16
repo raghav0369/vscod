@@ -1,0 +1,7 @@
+Dear  {!EM_TimeSheet__c.Employee__c}
+
+Please approval for Time sheet.
+
+Thanks,
+{!LMS_Employee__c.MANAGER__c}
+,
